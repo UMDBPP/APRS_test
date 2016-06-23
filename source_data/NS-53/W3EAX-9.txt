@@ -1,0 +1,965 @@
+2016-04-24 06:26:26 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgL:iOrO   /A=000541|!#|  /W3EAX,18,8,15'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65707775263437 °
+   longitude: -77.93411843770181 °
+   altitude: 164.8968 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!#|  /W3EAX,18,8,15'C,http://www.umd.edu
+
+2016-04-24 06:27:35 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:Ig`:iOhO   /A=000557|!$|  /W3EAX,23,8,16'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65702524899849 °
+   longitude: -77.93417094133768 °
+   altitude: 169.7736 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!$|  /W3EAX,23,8,16'C,http://www.umd.edu
+
+2016-04-24 06:28:14 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2*,qAR,N3ENM-10:!/:Ig`:iOhO   /A=000557|!$|  /W3EAX,23,8,16'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65702524899849 °
+   longitude: -77.93417094133768 °
+   altitude: 169.7736 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!$|  /W3EAX,23,8,16'C,http://www.umd.edu
+
+2016-04-24 06:31:02 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgV:iOhO   /A=000613|!'|  /W3EAX,39,8,19'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65705150081643 °
+   longitude: -77.93417094133768 °
+   altitude: 186.8424 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!'|  /W3EAX,39,8,19'C,http://www.umd.edu
+
+2016-04-24 06:33:19 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,K3PDK-1:!/:Ig@:iOdO   /A=000610|!)|  /W3EAX,49,8,20'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65710925481589 °
+   longitude: -77.93419194279204 °
+   altitude: 185.928 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!)|  /W3EAX,49,8,20'C,http://www.umd.edu
+
+2016-04-24 06:36:46 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W3HZU-10:!/:Ig`:iOhO   /A=000583|!,|  /W3EAX,64,8,21'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65702524899849 °
+   longitude: -77.93417094133768 °
+   altitude: 177.6984 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!,|  /W3EAX,64,8,21'C,http://www.umd.edu
+
+2016-04-24 06:37:55 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgX:iOfO   /A=000577|!-|  /W3EAX,69,8,22'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65704625045284 °
+   longitude: -77.93418144206487 °
+   altitude: 175.8696 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!-|  /W3EAX,69,8,22'C,http://www.umd.edu
+
+2016-04-24 06:42:31 CDT: W3EAX-9>APRS,N3KTX-4,WIDE1*,WIDE2-1,qAR,W3AD-1:!/:IgV:iO^O   /A=000557|!1|  /W3EAX,90,8,23'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65705150081643 °
+   longitude: -77.93422344497357 °
+   altitude: 169.7736 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!1|  /W3EAX,90,8,23'C,http://www.umd.edu
+
+2016-04-24 06:48:16 CDT: W3EAX-9>APRS,N3KTX-4,WIDE1*,WIDE2-1,qAR,W3AD-1:!/:Igl:iOjO   /A=000597|!6|  /W3EAX,115,8,24'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65699374681697 °
+   longitude: -77.93416044061051 °
+   altitude: 181.9656 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!6|  /W3EAX,115,8,24'C,http://www.umd.edu
+
+2016-04-24 06:50:34 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:Ig@:iOhO   /A=000580|!8|  /W3EAX,125,8,25'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65710925481589 °
+   longitude: -77.93417094133768 °
+   altitude: 176.784 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!8|  /W3EAX,125,8,25'C,http://www.umd.edu
+
+2016-04-24 06:51:43 CDT: W3EAX-9>APRS,N3KTX-4,WIDE1*,WIDE2-1,qAR,W3AD-1:!/:Ig`:iOdO   /A=000577|!9|  /W3EAX,130,8,25'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65702524899849 °
+   longitude: -77.93419194279204 °
+   altitude: 175.8696 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!9|  /W3EAX,130,8,25'C,http://www.umd.edu
+
+2016-04-24 06:52:12 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2*,qAR,N3ENM-10:!/:Ig@:iOhO   /A=000580|!8|  /W3EAX,125,8,25'C,http://www.umd.edu [Duplicate position packet]
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65710925481589 °
+   longitude: -77.93417094133768 °
+   altitude: 176.784 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!8|  /W3EAX,125,8,25'C,http://www.umd.edu
+
+2016-04-24 06:59:46 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgD:iOjO   /A=000570|!@|  /W3EAX,164,8,26'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65709875408872 °
+   longitude: -77.93416044061051 °
+   altitude: 173.736 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!@|  /W3EAX,164,8,26'C,http://www.umd.edu
+
+2016-04-24 07:00:55 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgD:iO^O   /A=000590|!A|  /W3EAX,169,8,27'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65709875408872 °
+   longitude: -77.93422344497357 °
+   altitude: 179.832 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!A|  /W3EAX,169,8,27'C,http://www.umd.edu
+
+2016-04-24 07:03:13 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgX:iOhO   /A=000606|!C|  /W3EAX,179,8,27'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65704625045284 °
+   longitude: -77.93417094133768 °
+   altitude: 184.7088 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!C|  /W3EAX,179,8,27'C,http://www.umd.edu
+
+2016-04-24 07:06:40 CDT: W3EAX-9>APRS,N3KTX-4,WIDE1*,WIDE2-1,qAR,W3AD-1:!/:IgH:iOjO   /A=000583|!F|  /W3EAX,194,8,27'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65708825336154 °
+   longitude: -77.93416044061051 °
+   altitude: 177.6984 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!F|  /W3EAX,194,8,27'C,http://www.umd.edu
+
+2016-04-24 07:07:49 CDT: W3EAX-9>APRS,N3KTX-4,WIDE1*,WIDE2-1,qAR,W3AD-1:!/:IgH:iOdO   /A=000577|!G|  /W3EAX,199,8,27'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65708825336154 °
+   longitude: -77.93419194279204 °
+   altitude: 175.8696 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!G|  /W3EAX,199,8,27'C,http://www.umd.edu
+
+2016-04-24 07:10:08 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgD:iOhO   /A=000564|!I|  /W3EAX,209,8,28'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65709875408872 °
+   longitude: -77.93417094133768 °
+   altitude: 171.9072 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!I|  /W3EAX,209,8,28'C,http://www.umd.edu
+
+2016-04-24 07:11:16 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,K3PDK-1:!/:IgR:iObO   /A=000590|!J|  /W3EAX,214,8,28'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65706200154361 °
+   longitude: -77.93420244351921 °
+   altitude: 179.832 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!J|  /W3EAX,214,8,28'C,http://www.umd.edu
+
+2016-04-24 07:12:25 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgP:iOhO   /A=000574|!K|  /W3EAX,219,8,28'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65706725190719 °
+   longitude: -77.93417094133768 °
+   altitude: 174.9552 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!K|  /W3EAX,219,8,28'C,http://www.umd.edu
+
+2016-04-24 07:15:52 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgH:iO`O   /A=000587|!N|  /W3EAX,234,8,28'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65708825336154 °
+   longitude: -77.93421294424638 °
+   altitude: 178.9176 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!N|  /W3EAX,234,8,28'C,http://www.umd.edu
+
+2016-04-24 07:19:19 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgP:iObO   /A=000587|!Q|  /W3EAX,249,8,29'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65706725190719 °
+   longitude: -77.93420244351921 °
+   altitude: 178.9176 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!Q|  /W3EAX,249,8,29'C,http://www.umd.edu
+
+2016-04-24 07:20:28 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgL:iOdO   /A=000567|!R|  /W3EAX,254,8,29'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65707775263437 °
+   longitude: -77.93419194279204 °
+   altitude: 172.8216 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!R|  /W3EAX,254,8,29'C,http://www.umd.edu
+
+2016-04-24 07:21:37 CDT: W3EAX-9>APRS,N3KTX-4,WIDE1*,WIDE2-1,qAR,W3AD-1:!/:IgL:iObO   /A=000580|!S|  /W3EAX,259,8,29'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65707775263437 °
+   longitude: -77.93420244351921 °
+   altitude: 176.784 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!S|  /W3EAX,259,8,29'C,http://www.umd.edu
+
+2016-04-24 07:23:55 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgR:iOjO   /A=000570|!U|  /W3EAX,269,8,29'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65706200154361 °
+   longitude: -77.93416044061051 °
+   altitude: 173.736 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!U|  /W3EAX,269,8,29'C,http://www.umd.edu
+
+2016-04-24 07:28:31 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgH:iO^O   /A=000583|!Y|  /W3EAX,289,8,30'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65708825336154 °
+   longitude: -77.93422344497357 °
+   altitude: 177.6984 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!Y|  /W3EAX,289,8,30'C,http://www.umd.edu
+
+2016-04-24 07:29:40 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:IgL:iObO   /A=000574|!Z|  /W3EAX,294,8,30'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65707775263437 °
+   longitude: -77.93420244351921 °
+   altitude: 174.9552 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!Z|  /W3EAX,294,8,30'C,http://www.umd.edu
+
+2016-04-24 07:33:07 CDT: W3EAX-9>APRS,N3KTX-4,WIDE1*,WIDE2-1,qAR,W3AD-1:!/:IgP:iOhO   /A=000577|!]|  /W3EAX,309,8,31'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65706725190719 °
+   longitude: -77.93417094133768 °
+   altitude: 175.8696 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!]|  /W3EAX,309,8,31'C,http://www.umd.edu
+
+2016-04-24 07:34:16 CDT: W3EAX-9>APRS,N3KTX-4,WIDE1*,WIDE2-1,qAR,W3AD-1:!/:IgP:iOjO   /A=000590|!^|  /W3EAX,314,8,31'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65706725190719 °
+   longitude: -77.93416044061051 °
+   altitude: 179.832 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!^|  /W3EAX,314,8,31'C,http://www.umd.edu
+
+2016-04-24 07:35:25 CDT: W3EAX-9>APRS,N3KTX-4,WIDE1*,WIDE2-1,qAR,W3AD-1:!/:IgL:iOnO   /A=000593|!_|  /W3EAX,319,8,31'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65707775263437 °
+   longitude: -77.93413943915616 °
+   altitude: 180.7464 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!_|  /W3EAX,319,8,31'C,http://www.umd.edu
+
+2016-04-24 07:37:43 CDT: W3EAX-9>APRS,N3KTX-4,WIDE1*,WIDE2-1,qAR,W3AD-1:!/:IgV:iOhO   /A=000603|!a|  /W3EAX,329,8,31'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65705150081643 °
+   longitude: -77.93417094133768 °
+   altitude: 183.7944 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!a|  /W3EAX,329,8,31'C,http://www.umd.edu
+
+2016-04-24 07:38:52 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:Igb:iOZO   /A=000597|!b|  /W3EAX,334,8,31'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65701999863491 °
+   longitude: -77.93424444642791 °
+   altitude: 181.9656 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!b|  /W3EAX,334,8,31'C,http://www.umd.edu
+
+2016-04-24 07:40:01 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,K3PDK-1:!/:In3:iM\O   /A=001512|!c|  /W3EAX,339,8,31'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.65547114137654 °
+   longitude: -77.9351895118737 °
+   altitude: 460.8576 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!c|  /W3EAX,339,8,31'C,http://www.umd.edu
+
+2016-04-24 07:41:09 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:Iw6:iIlO   /A=002821|!d|  /W3EAX,344,8,31'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.653313241942 °
+   longitude: -77.93701663840221 °
+   altitude: 859.8408000000001 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!d|  /W3EAX,344,8,31'C,http://www.umd.edu
+
+2016-04-24 07:43:28 CDT: W3EAX-9>APRS,N3KTX-4*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:J>F:iO.O   /A=005436|!f|  /W3EAX,354,0,31'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.64514892656317 °
+   longitude: -77.93447546242577 °
+   altitude: 1656.8928 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!f|  /W3EAX,354,0,31'C,http://www.umd.edu
+
+2016-04-24 07:44:36 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:JWM:iTYO   /A=006768|!g|  /W3EAX,359,0,31'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.63915826170962 °
+   longitude: -77.93186078135911 °
+   altitude: 2062.8864 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!g|  /W3EAX,359,0,31'C,http://www.umd.edu
+
+2016-04-24 07:46:54 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:K2E:ih1O   /A=009524|!i|  /W3EAX,368,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.62627911982905 °
+   longitude: -77.92251513417304 °
+   altitude: 2902.9152 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!i|  /W3EAX,368,0,32'C,http://www.umd.edu
+
+2016-04-24 07:49:12 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:K^/:j0*O   /A=012240|!k|  /W3EAX,378,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.61582564592598 °
+   longitude: -77.9058294786914 °
+   altitude: 3730.752 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!k|  /W3EAX,378,0,32'C,http://www.umd.edu
+
+2016-04-24 07:50:21 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:KsH:jB@O   /A=013612|!l|  /W3EAX,383,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.61074329397311 °
+   longitude: -77.89711387513586 °
+   altitude: 4148.9376 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!l|  /W3EAX,383,0,32'C,http://www.umd.edu
+
+2016-04-24 07:51:30 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:L/o:jVxO   /A=014976|!m|  /W3EAX,388,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.60514640638864 °
+   longitude: -77.88726419304537 °
+   altitude: 4564.6848 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!m|  /W3EAX,388,0,32'C,http://www.umd.edu
+
+2016-04-24 07:52:39 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:LEW:jkKO   /A=016341|!n|  /W3EAX,393,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.59995379680043 °
+   longitude: -77.87746701459076 °
+   altitude: 4980.736800000001 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!n|  /W3EAX,393,0,32'C,http://www.umd.edu
+
+2016-04-24 07:53:48 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:L[#:k&)O   /A=017667|!o|  /W3EAX,398,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.59483469230244 °
+   longitude: -77.86713429905021 °
+   altitude: 5384.9016 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!o|  /W3EAX,398,0,32'C,http://www.umd.edu
+
+2016-04-24 07:56:06 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:M6W:kSNO   /A=020400|!q|  /W3EAX,408,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.58179803951423 °
+   longitude: -77.84543979670592 °
+   altitude: 6217.92 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!q|  /W3EAX,408,0,32'C,http://www.umd.edu
+
+2016-04-24 07:57:15 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:M]8:kj?O   /A=021777|!r|  /W3EAX,413,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.57256264996351 °
+   longitude: -77.83452954117072 °
+   altitude: 6637.6296 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!r|  /W3EAX,413,0,32'C,http://www.umd.edu
+
+2016-04-24 08:00:42 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:Nvb:lIeO   /A=025970|!u|  /W3EAX,427,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.5447409733124 °
+   longitude: -77.80661860833862 °
+   altitude: 7915.656 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!u|  /W3EAX,427,0,32'C,http://www.umd.edu
+
+2016-04-24 08:03:00 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,K3PDK-1:!/:O`]:lp@O   /A=028805|!w|  /W3EAX,437,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.52827058273785 °
+   longitude: -77.7881793314187 °
+   altitude: 8779.764000000001 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!w|  /W3EAX,437,0,32'C,http://www.umd.edu
+
+2016-04-24 08:06:28 CDT: W3EAX-9>APRS,N3KTX-2*,WIDE1,WIDE2-1,qAR,W3AD-1:!/:Q,o:mj+O   /A=033264|!z|  /W3EAX,452,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.49716742884445 °
+   longitude: -77.74767802670335 °
+   altitude: 10138.8672 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |!z|  /W3EAX,452,0,32'C,http://www.umd.edu
+
+2016-04-24 08:11:03 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,AB4D:!/:S`C:o`IO   /A=039727|"#|  /W3EAX,471,0,32'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.44138231572536 °
+   longitude: -77.66534182492137 °
+   altitude: 12108.7896 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"#|  /W3EAX,471,0,32'C,http://www.umd.edu
+
+2016-04-24 08:15:40 CDT: W3EAX-9>APRS,KI4IEO-2*,WIDE1*,WIDE2-1,qAR,K5DAT-10:!/:U5v:q;\O   /A=046423|"'|  /W3EAX,490,0,31'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.40804250694361 °
+   longitude: -77.59596352047379 °
+   altitude: 14149.7304 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"'|  /W3EAX,490,0,31'C,http://www.umd.edu
+
+2016-04-24 08:16:49 CDT: W3EAX-9>APRS,N3KTX-2*,WIDE1,WIDE2-1,qAR,W4TTU:!/:UEz:q]&O   /A=048099|"(|  /W3EAX,495,0,31'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.4042097415246 °
+   longitude: -77.58000241516726 °
+   altitude: 14660.5752 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"(|  /W3EAX,495,0,31'C,http://www.umd.edu
+
+2016-04-24 08:17:58 CDT: W3EAX-9>APRS,N3KTX-2*,WIDE1,WIDE2-1,qAR,W4TTU:!/:UbO:r$jO   /A=049795|")|  /W3EAX,500,0,30'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.39739476958779 °
+   longitude: -77.563400765503 °
+   altitude: 15177.516 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |")|  /W3EAX,500,0,30'C,http://www.umd.edu
+
+2016-04-24 08:22:34 CDT: W3EAX-9>APRS,N3KTX-2*,WIDE1,WIDE2-1,qAR,W3AD-1:!/:VX(:s7pO   /A=056652|"-|  /W3EAX,519,0,29'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.37814693667536 °
+   longitude: -77.51081312380883 °
+   altitude: 17267.5296 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"-|  /W3EAX,519,0,29'C,http://www.umd.edu
+
+2016-04-24 08:27:09 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,W4TTU:!/:Vh(:t>fO   /A=063188|"1|  /W3EAX,538,0,28'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.37432467198354 °
+   longitude: -77.46404288496979 °
+   altitude: 19259.7024 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"1|  /W3EAX,538,0,28'C,http://www.umd.edu
+
+2016-04-24 08:28:18 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,W4TTU:!/:Vu/:tMcO   /A=065012|"2|  /W3EAX,542,0,28'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.37120070564887 °
+   longitude: -77.45689188976337 °
+   altitude: 19815.6576 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"2|  /W3EAX,542,0,28'C,http://www.umd.edu
+
+2016-04-24 08:29:27 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,W4TTU:!/:Vtd:t]MO   /A=066475|"3|  /W3EAX,547,0,28'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.37130046255703 °
+   longitude: -77.44936286837863 °
+   altitude: 20261.58 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"3|  /W3EAX,547,0,28'C,http://www.umd.edu
+
+2016-04-24 08:40:58 CDT: W3EAX-9>APRS,N3KTX-2*,WIDE1,WIDE2-1,qAR,W3AD-1:!/:VgC:uLKO   /A=080799|"=|  /W3EAX,595,0,26'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.37449268361834 °
+   longitude: -77.41401742070639 °
+   altitude: 24627.5352 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"=|  /W3EAX,595,0,26'C,http://www.umd.edu
+
+2016-04-24 08:42:07 CDT: W3EAX-9>APRS,KI4IEO-2*,WIDE1*,WIDE2-1,qAR,K5DAT-10:!/:VJ&:uRiO   /A=082289|">|  /W3EAX,599,0,26'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.3814966686443 °
+   longitude: -77.41099321127989 °
+   altitude: 25081.6872 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |">|  /W3EAX,599,0,26'C,http://www.umd.edu
+
+2016-04-24 08:44:25 CDT: W3EAX-9>APRS,KI4IEO-2*,WIDE1*,WIDE2-1,qAR,K5DAT-10:!/:V$h:upaO   /A=085202|"@|  /W3EAX,609,0,25'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.39040128528901 °
+   longitude: -77.39670172159423 °
+   altitude: 25969.5696 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"@|  /W3EAX,609,0,25'C,http://www.umd.edu
+
+2016-04-24 08:45:34 CDT: W3EAX-9>APRS,KI4IEO-2*,WIDE1*,WIDE2-1,qAR,K5DAT-10:!/:UyT:v'_O   /A=086642|"A|  /W3EAX,614,0,25'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.39188713818432 °
+   longitude: -77.38811212676478 °
+   altitude: 26408.4816 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"A|  /W3EAX,614,0,25'C,http://www.umd.edu
+
+2016-04-24 08:47:52 CDT: W3EAX-9>APRS,N3KTX-2*,WIDE1,WIDE2-1,qAR,W3AD-1:!/:UoT:vO/O   /A=089733|"C|  /W3EAX,623,0,25'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.39427605361671 °
+   longitude: -77.36925282075784 °
+   altitude: 27350.6184 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"C|  /W3EAX,623,0,25'C,http://www.umd.edu
+
+2016-04-24 08:50:10 CDT: W3EAX-9>APRS,KI4IEO-2*,WIDE1*,WIDE2-1,qAR,K5DAT-10:!/:UZu:vmSO   /A=092689|"E|  /W3EAX,633,0,25'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.39920614502554 °
+   longitude: -77.35473031507432 °
+   altitude: 28251.6072 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"E|  /W3EAX,633,0,25'C,http://www.umd.edu
+
+2016-04-24 08:52:27 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,W4TTU:!/:UG@:w;"O   /A=084024|"G|  /W3EAX,642,0,25'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.40388421898216 °
+   longitude: -77.33539847634448 °
+   altitude: 25610.5152 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"G|  /W3EAX,642,0,25'C,http://www.umd.edu
+
+2016-04-24 08:55:55 CDT: W3EAX-9>APRS,KI4IEO-2*,WIDE1*,WIDE2-1,qAR,K5DAT-10:!/:UBw:w]$O   /A=060507|"J|  /W3EAX,657,0,25'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.4049342916997 °
+   longitude: -77.31914335067704 °
+   altitude: 18442.5336 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"J|  /W3EAX,657,0,25'C,http://www.umd.edu
+
+2016-04-24 08:59:21 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,W4TTU:!/:Uuh:xY=O   /A=045639|"M|  /W3EAX,671,0,24'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.3927902007214 °
+   longitude: -77.27744496306369 °
+   altitude: 13910.7672 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"M|  /W3EAX,671,0,24'C,http://www.umd.edu
+
+2016-04-24 09:04:00 CDT: W3EAX-9>APRS,WA3G-1*,N3UJJ-6*,WIDE2*,qAR,N3UJJ:!/:X+m:z=KO   /A=031886|"Q|  /W3EAX,690,0,24'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.3452376577078 °
+   longitude: -77.20379286265575 °
+   altitude: 9718.852800000001 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"Q|  /W3EAX,690,0,24'C,http://www.umd.edu
+
+2016-04-24 09:12:00 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,KB3RRL-4:!/:ZiA:{veO   /A=015098|"X|  /W3EAX,723,0,22'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.28706362915632 °
+   longitude: -77.13294445640361 °
+   altitude: 4601.8704 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"X|  /W3EAX,723,0,22'C,http://www.umd.edu
+
+2016-04-24 09:13:11 CDT: W3EAX-9>APRS,KV3B-1*,WIDE1*,WIDE2-1,qAR,W4TTU:!/:[*3;!/KO   /A=013044|"Y|  /W3EAX,728,0,21'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.28041141849073 °
+   longitude: -77.12352530412731 °
+   altitude: 3975.8112 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"Y|  /W3EAX,728,0,21'C,http://www.umd.edu
+
+2016-04-24 09:14:18 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,KB3RRL-4:!/:[IZ;!BpO   /A=011125|"Z|  /W3EAX,733,0,21'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.27290339856035 °
+   longitude: -77.11425316203147 °
+   altitude: 3390.9 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"Z|  /W3EAX,733,0,21'C,http://www.umd.edu
+
+2016-04-24 09:17:45 CDT: W3EAX-9>APRS,WIDE1-1,WIDE2-1,qAR,KB3RRL-4:!/:\Bt;!^VO   /A=005531|"]|  /W3EAX,747,0,20'C,http://www.umd.edu
+   type: location
+   format: compressed
+   srccallsign: W3EAX-9
+   dstcallsign: APRS
+   latitude: 39.25276825420161 °
+   longitude: -77.10101174506335 °
+   altitude: 1685.8488 m
+   symboltable: /
+   symbolcode: O
+   messaging: 0
+   posresolution: 0.291 m
+   comment: |"]|  /W3EAX,747,0,20'C,http://www.umd.edu
